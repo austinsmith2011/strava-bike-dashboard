@@ -13,3 +13,5 @@ services:
         sync: false
       - key: PERSIST_TOKENS
         value: "false"
+      - key: ANTHROPIC_API_KEY
+        sync: false
